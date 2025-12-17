@@ -1,43 +1,8 @@
-# Mtherai
-Privacy_policy.html
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Privacy Policy</title>
-  <style>
-    body {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-      line-height: 1.6;
-      margin: 0;
-      padding: 24px;
-      background-color: #ffffff;
-      color: #111;
-    }
-    h1, h2, h3 {
-      color: #000;
-    }
-    h1 {
-      font-size: 28px;
-    }
-    h2 {
-      margin-top: 32px;
-      font-size: 22px;
-    }
-    p, li {
-      font-size: 15px;
-    }
-    ul {
-      margin-left: 20px;
-    }
-    footer {
-      margin-top: 40px;
-      font-size: 13px;
-      color: #555;
-    }
-  </style>
-</head>
+
 <body>
 
 <h1>Privacy Policy</h1>
