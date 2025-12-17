@@ -6,10 +6,10 @@
 <body>
 
 <h1>Privacy Policy</h1>
-<p><strong>Last Updated:</strong> [Insert Date]</p>
+<p><strong>Last Updated:</strong> [16/12/2025]</p>
 
 <p>
-This Privacy Policy describes how the Mood Analysis and Event Recommendation App
+This Privacy Policy describes how the MtherAi a Mood Analysis and Event Recommendation App
 ("the App", "we", "our", or "us") collects, uses, and protects your information.
 By using the App, you agree to the practices described in this policy.
 </p>
@@ -20,7 +20,7 @@ By using the App, you agree to the practices described in this policy.
 <ul>
   <li>Name (if provided)</li>
   <li>Email address (for account creation and support)</li>
-  <li>Profile photo (if uploaded by the user)</li>
+  
 </ul>
 
 <h3>Mood & App Interaction Data</h3>
@@ -117,10 +117,10 @@ Any changes will be reflected on this page and within the App where required.
 <p>
 If you have questions about this Privacy Policy or your data, contact us at:
 </p>
-<p><strong>Email:</strong> [Insert support email]</p>
+<p><strong>Email:</strong> support@mtherai.net</p>
 
 <footer>
-© [Your App Name]. All rights reserved.
+© Mtherai. All rights reserved.
 </footer>
 
 </body>
